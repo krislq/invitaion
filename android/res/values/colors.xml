@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+
+    <color name="gray">#ffaaaaaa</color>
+    <color name="gray_press">#ff898b8e</color>
+    <color name="gray_disable">#ffb2b2b2</color>
+
+    <color name="orange">#ffff6d10</color>
+    <color name="orange_press">#ffd9500c</color>
+    <color name="orange_header">#fffe5303</color>
+
+    <color name="blue">#4fb3b2</color>
+    <color name="blue_press">#4c9695</color>
+
+    <color name="bg_title">#66ffffff</color>
+    <color name="bg_editext">#ffebebeb</color>
+    <color name="bg_upload_image_view">#ffebebeb</color>
+
+    <color name="mask">#aa000000</color>
+</resources>

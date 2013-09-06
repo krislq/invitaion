@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Invitation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string name="invitation_title">李  强 &amp; 万碧秀</string>
+    <string name="invitation_time">2013年10月2号</string>
+    <string name="invitation_invite">敬邀：</string>
+    <string name="invitation_invite1">各位亲朋好友</string>
+    <string name="invitation_bridegroom">新郎：</string>
+    <string name="invitation_bridegroom_name">李  强</string>
+    <string name="invitation_bride">新娘：</string>
+    <string name="invitation_bride_name">万碧秀</string>
+    <string name="invitation_address">地点：</string>
+    <string name="invitation_address_details">三苏大道缘常来（详情请查看&quot;地点一栏&quot;）</string>
+    <string name="invitation_message">\t在这温馨浪漫，喜悦甜蜜的日子里 我俩决定于2013-10-02(农历八月二十八) 上午 12:00举行结婚典礼，届时敬备酒宴，欢迎您到来分享这份喜悦，您的光临将使我们的婚宴增添万分光彩!</string>
+
+    
+    <string name="story_title">我们的故事</string>
+    <string name="story_details">2004->相识\n2006->相知\n2007->相恋\n2013->我们结婚啦</string>
+    
+    
+    <string name="blessing_title">爱的祝福</string>
+    <string name="blessing_to_wife">致老婆：</string>
+    <string name="blessing_to_wife_details">\t天变、地变，情不变，给予你我所有的爱，是我前世、今生、来世最幸福的事……</string>
+    <string name="blessing_to_husband">致老公：</string>
+    <string name="blessing_to_husband_details">\t生活，或许已让你身心疲惫，纠结着一幕幕困惑和烦恼。爱情，让心灵复活，生命荡漾不竭的动力。以后，就像我对你说的那样，亲爱的，幸福属于我们。</string>
+    
+    
+    <string name="wall_title">回执留言</string>
+    <string name="wall_name_hint">您的姓名</string>
+    <string name="wall_content_hint">您想说的话</string>
+    <string name="wall_subject">新婚祝福</string>
+    <string name="wall_content">祝福你们新婚快乐！白头偕老！早生贵子！</string>
+    <string name="wall_send">准备发送</string>
+    <string name="wall_tip">我们的微博：@IT_kris @seattle98 为我们送上祝福！</string>
+    
+    
+    <string name="address_title">婚礼地点</string>
+    <string name="address_details">三苏大道缘常来</string>
+</resources>
