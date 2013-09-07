@@ -18,6 +18,7 @@ import com.krislq.invitation.R;
 import com.krislq.invitation.fragment.AddressFragment;
 import com.krislq.invitation.fragment.BlessingFragment;
 import com.krislq.invitation.fragment.InvitationFragment;
+import com.krislq.invitation.fragment.PhotoFragment;
 import com.krislq.invitation.fragment.StoryFragment;
 import com.krislq.invitation.fragment.WallFragment;
 
@@ -233,7 +234,12 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
             }
             break;
         case TYPE_PHOTO:
-            
+
+            tag = PhotoFragment.class.getName();
+            fragment = fragmentManager.findFragmentByTag(tag);
+            if(fragment == null) {
+                fragment = new PhotoFragment();
+            }
             break;
         case TYPE_ADDRESS:
 
@@ -297,6 +303,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
             tag = WallFragment.class.getName();
             break;
         case TYPE_PHOTO:
+            tag = PhotoFragment.class.getName();
             break;
         case TYPE_ADDRESS:
             tag = AddressFragment.class.getName();
